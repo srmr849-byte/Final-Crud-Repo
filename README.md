@@ -13,7 +13,7 @@
 - Bootstrap
 
 ## Setup
-1. Clone repository
+1. repository
 2. Import database
 3. Update db.php
 4. Run on XAMPP 
